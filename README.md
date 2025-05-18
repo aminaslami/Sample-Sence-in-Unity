@@ -6,6 +6,8 @@ Also I ran the project correctly.
 
 The images with them I test and run it.
 
+
+
 Image Traget-1: Stones
 
 ![imagetargets_targets-1](https://github.com/user-attachments/assets/9457d269-2837-43c7-b89f-51092c32e57e)
