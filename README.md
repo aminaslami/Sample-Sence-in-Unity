@@ -1,5 +1,8 @@
 # Sample-Sence-in-Unity
 
+I did this project by testing a photo on a phone screen with a computer camera.
+
+Also I ran the project correctly.
 
 You can create a new repository on the command line, follow the below steps.
 ```
