@@ -44,14 +44,13 @@ The images with them I test and run it, I mentioned in below.
 
 
 **Image Traget-1: Stones**
-![imagetargets_targets-1](https://github.com/user-attachments/assets/9457d269-2837-43c7-b89f-51092c32e57e)
+![image](https://github.com/user-attachments/assets/1fc58257-dfd7-4a1f-abc4-60195fa50ab7)
 
 **Image Traget-2: Chips**
-![imagetargets_targets-2](https://github.com/user-attachments/assets/001dc29e-ba24-4444-979e-bd463c3d9e98)
-
+![image](https://github.com/user-attachments/assets/e0ee977d-f2f2-46aa-8dfd-6ef914c36a41)
 
 **Image Traget-3: Tarmac**
-![imagetargets_targets-3](https://github.com/user-attachments/assets/51687309-49cd-4c63-a2df-c580c26043e0)
+![image](https://github.com/user-attachments/assets/6efbf351-5075-4adc-9cc9-d2d81a61dde3)
 
 Images Source: Vuforia
 
