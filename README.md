@@ -1,4 +1,4 @@
-# Sample-Sence-in-Unity
+# Sample Sence in Unity (C#)
 
 I did this project by testing a photo on a phone screen with a computer camera.
 
