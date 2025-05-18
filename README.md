@@ -18,6 +18,7 @@ The app was:
 *  Image Target 1: Stones (imagetargets_targets-1)
 *  Image Target 2: Chips (imagetargets_targets-2)
 *  Image Target 3: Tarmac (imagetargets_targets-3)
+
 These targets were sourced from Vuforia’s image target database and used to validate image recognition and AR overlay functionality.
 
 ### ⚙️ Features
