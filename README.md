@@ -14,6 +14,25 @@ The app was:
 *  Recognized via a computer camera running the Unity scene
 *  Successfully deployed and run without errors
 
+### 🖼️ Image Targets Used (from Vuforia)
+*  Image Target 1: Stones (imagetargets_targets-1)
+*  Image Target 2: Chips (imagetargets_targets-2)
+*  Image Target 3: Tarmac (imagetargets_targets-3)
+These targets were sourced from Vuforia’s image target database and used to validate image recognition and AR overlay functionality.
+
+### ⚙️ Features
+*  C# scripts for event handling and image detection logic
+*  Integration with Vuforia SDK for image tracking
+*  Real-time AR content rendering based on detected image
+*  Modular design to easily swap or add new image targets
+
+### 🧩 Tools & Technologies
+*  Unity
+*  C#
+*  Vuforia Engine
+*  Android/iOS (for deployment)
+*  Computer camera (for development-side testing)
+
 
 I did this project by testing a photo on a phone screen with a computer camera.
 
