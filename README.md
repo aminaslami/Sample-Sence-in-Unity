@@ -6,27 +6,18 @@ Also I ran the project correctly.
 
 ![Animation - Screenshot](https://github.com/user-attachments/assets/f032160f-5f79-4dcb-a6d1-a24a8b0d2ef4)
 
-
 The images with them I test and run it, I mentioned in below.
 
 
-
 Image Traget-1: Stones
-
 ![imagetargets_targets-1](https://github.com/user-attachments/assets/9457d269-2837-43c7-b89f-51092c32e57e)
 
-
 Image Traget-2: Chips
-
-
 ![imagetargets_targets-2](https://github.com/user-attachments/assets/001dc29e-ba24-4444-979e-bd463c3d9e98)
 
 
 Image Traget-3: Tarmac
-
 ![imagetargets_targets-3](https://github.com/user-attachments/assets/51687309-49cd-4c63-a2df-c580c26043e0)
-
-
 
 Images Source: Vuforia
 
