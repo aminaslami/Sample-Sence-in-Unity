@@ -37,7 +37,6 @@ These targets were sourced from Vuforia’s image target database and used to va
 
 I did this project by testing a photo on a phone screen with a computer camera.
 
-Also I ran the project correctly.
 
 ![Animation - Screenshot](https://github.com/user-attachments/assets/f032160f-5f79-4dcb-a6d1-a24a8b0d2ef4)
 
