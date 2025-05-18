@@ -1,7 +1,7 @@
 # Sample-Sence-in-Unity
 
 
-'''
+```
 create a new repository on the command line
 
 
@@ -14,4 +14,4 @@ git remote add origin https://github.com/aminaslami/Sample-Sence-in-Unity.git
 git push -u origin main
 
 
-'''
+```
