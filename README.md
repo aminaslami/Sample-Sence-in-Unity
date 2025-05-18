@@ -1,7 +1,7 @@
 # Sample-Sence-in-Unity
 
 
-create a new repository on the command line
+You can create a new repository on the command line, follow the below steps.
 ```
 echo "# Sample-Sence-in-Unity" >> README.md
 git init
@@ -11,7 +11,7 @@ git branch -M main
 git remote add origin https://github.com/aminaslami/Sample-Sence-in-Unity.git
 git push -u origin main
 ```
-You can push an existing repository from the command line
+You can push an existing repository from the command line, follow the below steps.
 
 ```
 git remote add origin https://github.com/aminaslami/Sample-Sence-in-Unity.git
