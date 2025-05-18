@@ -44,10 +44,10 @@ The images with them I test and run it, I mentioned in below.
 
 
 **Image Traget-1: Stones**
-![image](https://github.com/user-attachments/assets/1fc58257-dfd7-4a1f-abc4-60195fa50ab7)
+![image](https://github.com/user-attachments/assets/e0ee977d-f2f2-46aa-8dfd-6ef914c36a41)
 
 **Image Traget-2: Chips**
-![image](https://github.com/user-attachments/assets/e0ee977d-f2f2-46aa-8dfd-6ef914c36a41)
+![image](https://github.com/user-attachments/assets/1fc58257-dfd7-4a1f-abc4-60195fa50ab7)
 
 **Image Traget-3: Tarmac**
 ![image](https://github.com/user-attachments/assets/6efbf351-5075-4adc-9cc9-d2d81a61dde3)
