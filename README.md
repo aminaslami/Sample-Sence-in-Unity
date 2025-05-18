@@ -1,4 +1,23 @@
-# Sample Sence in Unity (C#)
+# Unity AR Sample Scene with C# (Vuforia Image Target Test)
+
+This project demonstrates an augmented reality (AR) scene built with Unity and C#, utilizing the Vuforia Engine to detect image targets and trigger animations or actions on-screen.
+
+✅ Project Overview
+The AR application runs on a mobile device and uses the device’s camera to recognize specific images (called image targets). When a target image is detected, the application overlays virtual content (like animations or 3D objects) onto the real-world view.
+
+🧪 Tested & Successfully Deployed
+The app was:
+
+Built in Unity
+
+Scripted using C#
+
+Tested using a phone screen showing the image targets
+
+Recognized via a computer camera running the Unity scene
+
+Successfully deployed and run without errors
+
 
 I did this project by testing a photo on a phone screen with a computer camera.
 
